@@ -1,5 +1,4 @@
 import Logo from '@/assets/Logo.png'
-import { footer } from 'framer-motion/client'
 
 const Footer = () => {
   return (

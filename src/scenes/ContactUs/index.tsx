@@ -4,7 +4,6 @@ import { useForm } from 'react-hook-form'
 import ContactUsPageGraphic from '@/assets/ContactUsPageGraphic.png'
 
 import HText from '@/shared/HText'
-import { p } from 'framer-motion/client'
 
 type Props = {
   setSelectedPage: (value: SelectedPage) => void
